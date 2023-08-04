@@ -18,3 +18,4 @@
 
 > a>>b = a/2^b
 ### Revise number system + conversions 
+### FROM HERE, I'LL CONTINUE AFTER COMPLETING OOP, LINKED LISTS, TREES, GRAPH, DP
