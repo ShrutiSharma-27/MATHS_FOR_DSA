@@ -15,5 +15,6 @@
    ![gitty](https://github.com/ShrutiSharma-27/MATHS_FOR_DSA/assets/53565103/54194009-3589-43ad-9717-7c3f4bde8e97)
    0011001 >> 1 => 001100 (ignore rightmost bit)
 > a>>1 = a/2
+
 > a>>b = a/2^b
 ### Revise number system + conversions 
